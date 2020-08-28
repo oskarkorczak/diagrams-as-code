@@ -40,7 +40,7 @@ Diagram definition script will generate PNG file with your diagram's image. It c
 ###### Ubuntu
 
 ```
-python diagram-definition.py
+nautilus diagram-definition.py
 ```
 
 
@@ -54,5 +54,5 @@ open diagram-definition.png
 Above two commands could also be joined, as a convenience command:
 
 ```
-python diagram-definition.py; python diagram-definition.py
+python diagram-definition.py; nautilus diagram-definition.py
 ```
