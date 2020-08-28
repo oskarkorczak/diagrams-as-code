@@ -1,0 +1,13 @@
+# Python
+venv
+local
+
+# InteliJ 
+.idea/
+.iml
+.ipr
+.iws
+
+# Images
+*.png
+*.jpg
