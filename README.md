@@ -1,4 +1,4 @@
-# Diagrams as code
+# [Diagrams as code][dac]
 
 Keep all architectural diagrams as code in repository. All diagrams can be generated from Python source files. 
 
@@ -56,3 +56,6 @@ Above two commands could also be joined, as a convenience command:
 ```
 python diagram-definition.py; nautilus diagram-definition.png
 ```
+
+
+[dac]: https://diagrams.mingrammer.com
