@@ -60,7 +60,7 @@ python diagram-definition.py; nautilus diagram-definition.png
 
 ## Hints
 
-The []order of rendered diagrams is the reverse of the declaration order by default. It could be amended if necessary.
+The [order of rendered diagrams](https://diagrams.mingrammer.com/docs/guides/node) is the reverse of the declaration order by default. It could be amended if necessary.
 
 
 
